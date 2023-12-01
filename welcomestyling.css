@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(235, 229, 221);
+    font-family:Arial, Helvetica, sans-serif
+  }
+  body {
+    margin: 20px;
+  }
+p {
+    color:rgb(219, 69, 69);
+}
+img {
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.sanfran {
+    border-radius: 25%;
+    height: 100px;
+    width: auto;
+}
+#sanfran1 {
+    border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+
+#list1 {
+    background-color: plum;
+}
+.list1id {
+    background-color: mediumturquoise
+}
+f1{
+    background-color:beige;
+}
+#page2 {
+    text-align: center
+}
